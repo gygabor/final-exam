@@ -1,7 +1,7 @@
 'use strict'
 
-const test = require('tape');
-const higherorderfunctions = require('./higherorderfunctions.js');
+var test = require('tape');
+var higherorderfunctions = require('./higherorderfunctions.js');
 
 console.log(higherorderfunctions);
 

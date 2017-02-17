@@ -18,7 +18,7 @@ function shiftValues(array, number){
     pos = array.length - number;
   }
 
-  while(pos < array.length){
+  while(pos < array.length) {
     array2[j] = array[pos];
     ++pos;
     ++j;
